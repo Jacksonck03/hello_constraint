@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1.2b homework</string>
+    <string name="count_test">COUNT</string>
+    <string name="zero_test">ZERO</string>
+    <string name="toast_test">TOAST</string>
+    <string name="show_count">0</string>
+    <string name="show_count">0</string>
+    <string name="toast_message">hello constraint</string>
+</resources>
